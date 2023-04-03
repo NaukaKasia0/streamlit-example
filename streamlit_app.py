@@ -1,3 +1,8 @@
+import streamlit
+streamlit.title("My Parents New Healthy Diner")
+
+
+
 from collections import namedtuple
 import altair as alt
 import math
